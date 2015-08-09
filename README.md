@@ -10,6 +10,10 @@ You have to edit the index.html file with Pinegrow WP and export the content to 
 More details to come
 You are invited to analyze the content of the themplate with Pinegrow WP first :)
 
+**Demo**
+==
+The WordPress theme is currently visible [here](http://www.pgwp.batsteek.fr/ "http://www.pgwp.batsteek.fr/")
+
 **About**
 ==
 Landy is a flexible one-page fully responsive HTML template © Paolo Tripodi, 2014 and released under MIT license.
