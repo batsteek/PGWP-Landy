@@ -5,6 +5,10 @@ http://pinegrow.com/wordpress-theme-builder.html
 **WARNING**: This is not a WordPress THEME file!
 You have to edit the index.html file with Pinegrow WP and export the content to create a WordPress Theme.
 
+**Useful Informations**
+==
+More details to come
+You are invited to analyze the content of the themplate with Pinegrow WP first :)
 
 **About**
 ==
