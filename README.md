@@ -1,9 +1,9 @@
 # PGWP-Landy
-HTML template to use with Pinegrow WP
-http://pinegrow.com/wordpress-theme-builder.html
+PGWP-Landy is a HTML template to use with [Pinegrow WP](http://pinegrow.com/wordpress-theme-builder.html "http://pinegrow.com/wordpress-theme-builder.html")
 
-**WARNING**: This is not a WordPress THEME file!
-You have to edit the index.html file with Pinegrow WP and export the content to create a WordPress Theme.
+
+**WARNING**: PGWP-Landy is NOT a WordPress THEME package!
+You have to load the index.html file within Pinegrow WP and proceed to an export to create a WordPress Theme.
 
 **Useful Informations**
 ==
