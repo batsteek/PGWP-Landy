@@ -13,5 +13,5 @@ You are invited to analyze the content of the themplate with Pinegrow WP first :
 **About**
 ==
 Landy is a flexible one-page fully responsive HTML template © Paolo Tripodi, 2014 and released under MIT license.
-For more informations about **Landi**, visit : https://github.com/paolotripodi/Landy-v1.0
+For more informations about **Landy**, visit : https://github.com/paolotripodi/Landy-v1.0
 
