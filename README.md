@@ -12,7 +12,7 @@ More details to come
 You are invited to analyze the content of the themplate with Pinegrow WP first :)
 
 #Demo
-The **PGWP-Landy** WordPress theme is currently visible [here](http://www.pgwp.batsteek.fr/ "http://www.pgwp.batsteek.fr/")
+No demo currently available.
 
 #About
 Landy is a flexible one-page fully responsive HTML template © Paolo Tripodi, 2014 and released under MIT license.
